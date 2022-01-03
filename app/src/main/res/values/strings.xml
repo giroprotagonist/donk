@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseAuth-EmailPassword</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_cPassword">Confirm Password</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_confirm">Confirm</string>
+    <string name="hint_register">Sign Up</string>
+    <string name="hint_login">Sign In</string>
+    <string name="uid">UID : ...</string>
+    <string name="t">Choose Method Get Data From...</string>
+    <string name="result">Hello ...</string>
+    <string name="hint_logout">Logout</string>
+
+    <string-array name="db">
+        <item>Realtime Database</item>
+        <item>Cloud Firestore Database</item>
+    </string-array>
+</resources>

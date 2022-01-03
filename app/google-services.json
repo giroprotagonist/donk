@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "1072542991967",
+    "project_id": "rideyrbike0",
+    "storage_bucket": "rideyrbike0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072542991967:android:2063155368018275dfbdea",
+        "android_client_info": {
+          "package_name": "com.rideyrbike0.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072542991967-49933i6uqudcmo0rmplnaufd36g2tfmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideyrbike0.app",
+            "certificate_hash": "4fbeaebda9cc17d33994696bb84a2d44ee3d5e96"
+          }
+        },
+        {
+          "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlV64r-nr_rU0naphyv61wi-Y9u8elirE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072542991967-dfk83877ph7tltrt1id4makp96chttr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideyrbike007.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072542991967:android:6322685726c77200dfbdea",
+        "android_client_info": {
+          "package_name": "com.rideyrbike007.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072542991967-skeaa6jacegatc7pa3cmuao7veo8lauk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideyrbike007.app",
+            "certificate_hash": "4fbeaebda9cc17d33994696bb84a2d44ee3d5e96"
+          }
+        },
+        {
+          "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlV64r-nr_rU0naphyv61wi-Y9u8elirE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072542991967-dfk83877ph7tltrt1id4makp96chttr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideyrbike007.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072542991967:android:f6e17a146cd269e5dfbdea",
+        "android_client_info": {
+          "package_name": "com.rideyrbike1.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072542991967-26v1u8a9oja8hpbotk3ga483f0s3s0fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideyrbike1.app",
+            "certificate_hash": "4fbeaebda9cc17d33994696bb84a2d44ee3d5e96"
+          }
+        },
+        {
+          "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlV64r-nr_rU0naphyv61wi-Y9u8elirE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072542991967-np063c82tsdb872c4m19blrqm9rsgkup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072542991967-dfk83877ph7tltrt1id4makp96chttr5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideyrbike007.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
