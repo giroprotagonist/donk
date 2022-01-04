@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.UpdateMapsActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/AddressField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="32dp" />
+
+    <Button
+        android:id="@+id/UpdateAddressButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Edit Address"
+        android:layout_margin="32dp"/>
+
+    <Button
+        android:id="@+id/UpdateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="32dp"
+        android:text="Update Location"/>
+
+
+</LinearLayout>
